@@ -30,7 +30,7 @@ export const OnboardingComplete = ({ userType, assessmentData, onComplete }: Onb
               <CheckCircle className="w-10 h-10 text-success" />
             </div>
             <h1 className="text-2xl font-bold text-foreground mb-3">
-              Welcome to HomeKey! 🎉
+              Welcome to HomeFlow! 🎉
             </h1>
             <p className="text-muted-foreground">
               Your personalized home buying journey is ready
