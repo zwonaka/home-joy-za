@@ -16,7 +16,7 @@ export const WelcomeScreen = ({ onNext }: WelcomeScreenProps) => {
             <Home className="w-8 h-8 text-accent-foreground" />
           </div>
           <h1 className="text-3xl font-bold text-primary-foreground mb-3">
-            Welcome to HomeKey
+            Welcome to HomeFlow
           </h1>
           <p className="text-primary-foreground/80 text-lg leading-relaxed">
             Your trusted partner for homeownership in South Africa
